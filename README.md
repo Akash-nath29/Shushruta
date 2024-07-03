@@ -45,8 +45,8 @@ Shushruta-main/
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/Shushruta-main.git
-    cd Shushruta-main
+    git clone https://github.com/yourusername/Shushruta.git
+    cd Shushruta
     ```
 
 2. **Install Dependencies**
